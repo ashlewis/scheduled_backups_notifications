@@ -1,0 +1,4 @@
+name = Scheduled Backups Notifications
+description = "Provides notifications in the event of scheduled backup failure"
+core = 7.x
+dependencies[] = backup_migrate
